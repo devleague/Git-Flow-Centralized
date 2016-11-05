@@ -17,6 +17,7 @@ cheeee!!!! =)
 | 9             | F              | Fluorine     |
 | 10            | Ne             | Neon         |
 | 11            | Na             | Sodium       |
-| 14            | Si             | Silicon      |
+| 12            | Al             | Aluminium
+  14            | Si             | Silicon      |
 | 15            | P              | Phosphorus   |
 |               |
