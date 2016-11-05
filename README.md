@@ -11,4 +11,5 @@ Fill out the table in ascending order of atomic number
 |---------------|----------------|--------------|
 | 1             | H              | Hydrogen     |
 | 3             | Li             | Lithium      |
+| 5             | B              | Boron        |
 | 11            | Na             | Sodium       |
