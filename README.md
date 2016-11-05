@@ -14,4 +14,4 @@ Fill out the table in ascending order of atomic number
 | 3             | Li             | Lithium      |
 | 9             | F              | Fluorine     |
 | 11            | Na             | Sodium       |
-
+| 14            | Si             | Silicon      |
