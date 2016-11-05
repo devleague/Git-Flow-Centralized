@@ -13,6 +13,7 @@ cheeee!!!! =)
 | 3             | Li             | Lithium      |
 | 4             | Be             | Beryllium    |
 | 5             | Ca             |              |
+| 6             | B              | Boron        |
 | 9             | F              | Fluorine     |
 | 10            | Ne             | Neon         |
 | 11            | Na             | Sodium       |
