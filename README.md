@@ -9,8 +9,8 @@ Fill out the table in ascending order of atomic number
 
 | Atomic Number | Element Symbol | Element Name |
 |---------------|----------------|--------------|
+| 1             | H              | Hydrogen     |
+| 2             | He             | Helium       |
 | 3             | Li             | Lithium      |
-|               |                |              |
-  7               N                Nitrogen
+| 11            | Na             | Sodium       |
 
-  12              Mg               Magnesium
