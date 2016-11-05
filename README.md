@@ -1,6 +1,7 @@
 # Git Flow Centralized
 Learning Git-Flow
 
+
 ## Requirements
 
 Fill out the table in ascending order of atomic number
@@ -12,5 +13,7 @@ Fill out the table in ascending order of atomic number
 | 1             | H              | Hydrogen     |
 | 2             | He             | Helium       |
 | 3             | Li             | Lithium      |
+| 4             | Be             | Beryllium    |
+| 9             | F              | Fluorine     |
 | 11            | Na             | Sodium       |
 
