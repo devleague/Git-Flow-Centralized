@@ -1,12 +1,10 @@
-# Git Flow Centralized
+# Git-Flow-Centralized
 Learning Git-Flow
 
 
-## Requirements
+cheeee!!!! =)
 
-Fill out the table in ascending order of atomic number
 
-## Elements
 
 | Atomic Number | Element Symbol | Element Name |
 |---------------|----------------|--------------|
@@ -16,9 +14,12 @@ Fill out the table in ascending order of atomic number
 | 4             | Be             | Beryllium    |
 | 7             | N              | Nitrogen     |
 | 5             | B              | Boron        |
+| 5             | Ca             |              |
+| 6             | B              | Boron        |
 | 9             | F              | Fluorine     |
 | 10            | Ne             | Neon         |
 | 11            | Na             | Sodium       |
 | 14            | Si             | Silicon      |
 | 15            | P              | Phosphorus   |
+
 
