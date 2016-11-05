@@ -12,6 +12,9 @@ cheeee!!!! =)
 | 2             | He             | Helium       |
 | 3             | Li             | Lithium      |
 | 4             | Be             | Beryllium    |
+| 7             | N              | Nitrogen     |
+| 5             | B              | Boron        |
+| 5             | Ca             |              |
 | 5             | B              | Boron        |
 | 6             | B              | Boron        |
 | 8             | O              | Oxygen       |
@@ -20,4 +23,5 @@ cheeee!!!! =)
 | 11            | Na             | Sodium       |
 | 14            | Si             | Silicon      |
 | 15            | P              | Phosphorus   |
-|               |
+
+
