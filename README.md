@@ -15,6 +15,7 @@ Fill out the table in ascending order of atomic number
 | 3             | Li             | Lithium      |
 | 4             | Be             | Beryllium    |
 | 9             | F              | Fluorine     |
+| 10            | Ne             | Neon         |
 | 11            | Na             | Sodium       |
 | 14            | Si             | Silicon      |
 | 15            | P              | Phosphorus   |
