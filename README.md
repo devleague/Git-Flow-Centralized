@@ -14,5 +14,6 @@ Fill out the table in ascending order of atomic number
 | 2             | He             | Helium       |
 | 3             | Li             | Lithium      |
 | 4             | Be             | Beryllium    |
+| 9             | F              | Fluorine     |
 | 11            | Na             | Sodium       |
 
