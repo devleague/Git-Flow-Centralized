@@ -19,6 +19,7 @@ cheeee!!!! =)
 | 10            | Ne             | Neon         |
 | 11            | Na             | Sodium       |
 | 12            | Mg             | Magnesium    |
+| 13            | Al             | Aluminium    |
 | 14            | Si             | Silicon      |
 | 15            | P              | Phosphorus   |
 
