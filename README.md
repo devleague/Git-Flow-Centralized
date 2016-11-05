@@ -18,6 +18,7 @@ cheeee!!!! =)
 | 9             | F              | Fluorine     |
 | 10            | Ne             | Neon         |
 | 11            | Na             | Sodium       |
+| 12            | Mg             | Magnesium    |
 | 14            | Si             | Silicon      |
 | 15            | P              | Phosphorus   |
 |               |
