@@ -22,7 +22,7 @@ cheeee!!!! =)
 | 10            | Ne             | Neon         |
 | 11            | Na             | Sodium       |
 | 12            | Al             | Aluminium
-  14            | Si             | Silicon      |
+|  14           | Si             | Silicon      |
 | 15            | P              | Phosphorus   |
 
 
