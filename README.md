@@ -22,6 +22,7 @@ cheeee!!!! =)
 | 12            | Mg             | Magnesium    |
 | 13            | Al             | Aluminium    |
 | 14            | Si             | Silicon      |
+| 14            | Si             | Silicon      |
 | 15            | P              | Phosphorus   |
 
 
