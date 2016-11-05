@@ -11,3 +11,6 @@ Fill out the table in ascending order of atomic number
 |---------------|----------------|--------------|
 | 3             | Li             | Lithium      |
 |               |                |              |
+  7               N                Nitrogen
+
+  12              Mg               Magnesium
