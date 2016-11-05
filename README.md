@@ -13,12 +13,15 @@ cheeee!!!! =)
 | 3             | Li             | Lithium      |
 | 4             | Be             | Beryllium    |
 | 5             | B              | Boron        |
+| 6             | C              | Carbon       |
 | 7             | N              | Nitrogen     |
 | 8             | O              | Oxygen       |
 | 9             | F              | Fluorine     |
 | 10            | Ne             | Neon         |
 | 11            | Na             | Sodium       |
 | 12            | Mg             | Magnesium    |
+| 13            | Al             | Aluminium
+| 14            | Si             | Silicon      |
 | 14            | Si             | Silicon      |
 | 15            | P              | Phosphorus   |
 
